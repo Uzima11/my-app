@@ -12,6 +12,10 @@ const App = () => {
       <img src="/rwanda.png" alt="Rwanda" />
       <img src="/uganda.png" alt="Uganda" />
       <img src="/ugandawashed.png" alt="Uganda Washed" />
+      <img src="/aboutus1.png" alt="About Us 1" />
+      <img src="/aboutus3.png" alt="About Us 3" />
+      <img src="/owners.png" alt="Owners" />
+      <img src="/warehouse.png" alt="Warehouse" />
     </div>
   );
 };
