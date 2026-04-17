@@ -19,6 +19,7 @@ const App = () => {
       <img src="/khomep.jpg" alt="Kenya Homepage" />
       <img src="/rwhomep.JPG" alt="Rwanda Homepage" />
       <img src="/logokivulogistics.jpg" alt="kivu Logo" />
+      <img src="/pvclogo.jpg" alt="kivu Logo" />
       <img src="/ughomep.jpg" alt="Uganda Homepage" />
     </div>
   );
